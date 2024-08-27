@@ -1,6 +1,6 @@
 ## Netflix - EDA and Dashboard
 
-![Dashboard Screenshot](/Dashboard1.png)
+![Dashboard Screenshot](Dashboard1.png)
 
 ##### Overview
 
