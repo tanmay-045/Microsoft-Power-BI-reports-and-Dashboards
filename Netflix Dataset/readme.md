@@ -1,6 +1,6 @@
 ## Netflix - EDA and Dashboard
 
-![Dashboard Screenshot](NetflixDataset/Dashboard1.png)
+![Dashboard Screenshot](Netflix Dataset/Dashboard1.png)
 
 ##### Overview
 
