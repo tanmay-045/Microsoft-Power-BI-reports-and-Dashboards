@@ -1,5 +1,7 @@
 ## Netflix - EDA and Dashboard
 
+![Dashboard Screenshot](NetflixDataset/Dashboard1.png)
+
 ##### Overview
 
 This project involves exploratory data analysis (EDA) and dashboard creation using the Netflix dataset. The dataset includes the following columns:
